@@ -1,0 +1,13 @@
+﻿  Game.cpp
+  Window.cpp
+D:\Abertay\Year 3\Term 1\CMP316 Game Engine Development\Course_work_CMP316_OpenGL\Course_Work_CMP316_OpenGL\Course_Work_CMP316_OpenGL\Window.cpp(30,23): warning C4838: conversion from 'float' to 'LONG' requires a narrowing conversion
+D:\Abertay\Year 3\Term 1\CMP316 Game Engine Development\Course_work_CMP316_OpenGL\Course_Work_CMP316_OpenGL\Course_Work_CMP316_OpenGL\Window.cpp(30,23): warning C4244: 'initializing': conversion from 'float' to 'LONG', possible loss of data
+D:\Abertay\Year 3\Term 1\CMP316 Game Engine Development\Course_work_CMP316_OpenGL\Course_Work_CMP316_OpenGL\Course_Work_CMP316_OpenGL\Window.cpp(30,29): warning C4838: conversion from 'float' to 'LONG' requires a narrowing conversion
+D:\Abertay\Year 3\Term 1\CMP316 Game Engine Development\Course_work_CMP316_OpenGL\Course_Work_CMP316_OpenGL\Course_Work_CMP316_OpenGL\Window.cpp(30,29): warning C4244: 'initializing': conversion from 'float' to 'LONG', possible loss of data
+D:\Abertay\Year 3\Term 1\CMP316 Game Engine Development\Course_work_CMP316_OpenGL\Course_Work_CMP316_OpenGL\Course_Work_CMP316_OpenGL\Window.cpp(30,35): warning C4838: conversion from 'float' to 'LONG' requires a narrowing conversion
+D:\Abertay\Year 3\Term 1\CMP316 Game Engine Development\Course_work_CMP316_OpenGL\Course_Work_CMP316_OpenGL\Course_Work_CMP316_OpenGL\Window.cpp(30,35): warning C4244: 'initializing': conversion from 'float' to 'LONG', possible loss of data
+D:\Abertay\Year 3\Term 1\CMP316 Game Engine Development\Course_work_CMP316_OpenGL\Course_Work_CMP316_OpenGL\Course_Work_CMP316_OpenGL\Window.cpp(30,44): warning C4838: conversion from 'float' to 'LONG' requires a narrowing conversion
+D:\Abertay\Year 3\Term 1\CMP316 Game Engine Development\Course_work_CMP316_OpenGL\Course_Work_CMP316_OpenGL\Course_Work_CMP316_OpenGL\Window.cpp(30,44): warning C4244: 'initializing': conversion from 'float' to 'LONG', possible loss of data
+  main.cpp
+  Generating Code...
+  Course_Work_CMP316_OpenGL.vcxproj -> D:\Abertay\Year 3\Term 1\CMP316 Game Engine Development\Course_work_CMP316_OpenGL\Course_Work_CMP316_OpenGL\x64\Debug\Course_Work_CMP316_OpenGL.exe
